@@ -3,6 +3,8 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
+  - category: "admin-dashboards"
+    title: "Admin Dashboards"
   - category: "dnd"
     title: "Drag & Drop"
   - category: "routing"
@@ -15,6 +17,16 @@ labels:
     description: "Vue2 compatible"
   - label: "vue3"
     description: "Vue3 compatible"
+  - label: "bootstrap5"
+    description: "bootstrap 5 compatible"
+  - label: "coreui"
+    description: "coreui compatible"
+  - label: "tailwind"
+    description: "tailwind compatible"
+  - label: "pinia"
+    description: "pinia compatible"
+  - label: "vite"
+    description: "vite compatible"
 
 projects:
   - name: harlem
@@ -87,3 +99,16 @@ projects:
     github_id: shkilo/vue3-draggable
     labels: ["vue3"]
     category: "dnd"
+
+  - name: admin-one-vue-tailwind
+    github_id: justboil/admin-one-vue-tailwind
+    labels: ["vue3", "tailwind", "vite", "pinia"]
+    category: "admin-dashboards"
+  - name: coreui-free-vue-admin-template
+    github_id: coreui/coreui-free-vue-admin-template
+    labels: ["vue3", "bootstrap5", "coreui"]
+    category: "admin-dashboards"
+  - name: vue-argon-dashboard
+    github_id: creativetimofficial/vue-argon-dashboard
+    labels: ["vue3", "bootstrap5"]
+    category: "admin-dashboards"
