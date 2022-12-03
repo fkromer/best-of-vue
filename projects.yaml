@@ -3,17 +3,25 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "state-management"
+    title: "State Management"
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "vue2"
+    description: "Vue2 compatible"
+  - label: "vue3"
+    description: "Vue3 compatible"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: harlem
+    github_id: andrewcourtice/harlem
+    labels: ["vue3"]
+    category: "state-management"
+  - name: pinia
+    github_id: vuejs/pinia
+    labels: ["vue3"]
+    category: "state-management"
+  - name: vuex
+    github_id: vuejs/vuex
+    labels: ["vue3"]
+    category: "state-management"
