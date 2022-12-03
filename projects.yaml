@@ -156,6 +156,10 @@ projects:
     github_id: apollographql/apollo-client
     labels: ["vue2", "vue3"]
     category: "graphql-clients"
+  - name: Genql
+    github_id: remorses/genql
+    labels: ["vue2", "vue3"]
+    category: "graphql-clients"
   - name: graphql-hooks
     github_id: nearform/graphql-hooks
     labels: ["vue2", "vue3"]
