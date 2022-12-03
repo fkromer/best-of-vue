@@ -21,7 +21,31 @@ projects:
     github_id: vuejs/pinia
     labels: ["vue3"]
     category: "state-management"
+  - name: vue-freeze
+    github_id: BosNaufal/vue-freeze
+    labels: []
+    category: "state-management"
+  - name: vue-redux
+    github_id: yang-wei/vue-redux
+    labels: []
+    category: "state-management"
+  - name: vue-save-state
+    github_id: spatie/vue-save-state
+    labels: []
+    category: "state-management"
+  - name: vue-simple-store
+    github_id: BosNaufal/vue-simple-store
+    labels: []
+    category: "state-management"
+  - name: vue-stator
+    github_id: galvez/vue-stator
+    labels: []
+    category: "state-management"
   - name: vuex
     github_id: vuejs/vuex
     labels: ["vue3"]
+    category: "state-management"
+  - name: xstate
+    github_id: statelyai/xstate
+    labels: []
     category: "state-management"
