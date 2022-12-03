@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-26-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-32-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-vue/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-vue?color=green&label=updated"></a>
 </p>
 
-This curated list contains 26 awesome open-source projects with a total of 220K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-vue/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-vue/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-vue/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 32 awesome open-source projects with a total of 260K stars grouped into 9 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-vue/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-vue/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-vue/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -26,6 +26,8 @@ This curated list contains 26 awesome open-source projects with a total of 220K 
 - [CSS Frameworks](#css-frameworks) _2 projects_
 - [Drag & Drop](#drag--drop) _5 projects_
 - [Developer Tools](#developer-tools) _1 projects_
+- [GraphQL clients](#graphql-clients) _5 projects_
+- [GraphQL integrations](#graphql-integrations) _1 projects_
 - [Routing](#routing) _3 projects_
 - [State Management](#state-management) _9 projects_
 
@@ -146,12 +148,68 @@ This curated list contains 26 awesome open-source projects with a total of 220K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/vuejs/devtools">vue-devtools</a></b> (🥇35 ·  ⭐ 23K · ➕) - Browser devtools extension for debugging Vue.js applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vuejs/devtools">vue-devtools</a></b> (🥇35 ·  ⭐ 23K) - Browser devtools extension for debugging Vue.js applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vuejs/devtools) (👨‍💻 120 · 🔀 3.9K · 📥 97K · 📦 2.2K · 📋 1.5K - 27% open · ⏱️ 18.10.2022):
 
 	```
 	git clone https://github.com/vuejs/devtools
+	```
+</details>
+<br>
+
+## GraphQL clients
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/apollographql/apollo-client">Appolo Client</a></b> (🥇38 ·  ⭐ 18K · ➕) - A fully-featured, production ready caching GraphQL.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/apollographql/apollo-client) (👨‍💻 780 · 🔀 2.4K · 📦 150K · 📋 4.5K - 13% open · ⏱️ 03.12.2022):
+
+	```
+	git clone https://github.com/apollographql/apollo-client
+	```
+</details>
+<details><summary><b><a href="https://github.com/urql-graphql/urql">URQL</a></b> (🥈31 ·  ⭐ 7.6K · ➕) - The highly customizable and versatile GraphQL client with which.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/urql-graphql/urql) (👨‍💻 210 · 🔀 370 · 📦 22K · 📋 780 - 3% open · ⏱️ 01.12.2022):
+
+	```
+	git clone https://github.com/urql-graphql/urql
+	```
+</details>
+<details><summary><b><a href="https://github.com/prisma-labs/graphql-request">graphql-request</a></b> (🥉29 ·  ⭐ 5K · ➕) - Minimal GraphQL client supporting Node and browsers.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/prisma-labs/graphql-request) (👨‍💻 74 · 🔀 260 · 📦 160K · 📋 220 - 58% open · ⏱️ 18.11.2022):
+
+	```
+	git clone https://github.com/prisma-labs/graphql-request
+	```
+</details>
+<details><summary><b><a href="https://github.com/remorses/genql">Genql</a></b> (🥉17 ·  ⭐ 510 · ➕) - Type safe Graphql query builder. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/remorses/genql) (👨‍💻 7 · 🔀 14 · 📦 160 · 📋 79 - 35% open · ⏱️ 30.11.2022):
+
+	```
+	git clone https://github.com/remorses/genql
+	```
+</details>
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/nearform/graphql-hooks">graphql-hooks</a></b> (🥉23 ·  ⭐ 1.8K · ➕) - Minimal hooks-first GraphQL client. <code>❗Unlicensed</code>
+</details>
+<br>
+
+## GraphQL integrations
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/vuejs/apollo">Appolo Client integration</a></b> (🥇23 ·  ⭐ 5.7K · ➕) - Apollo/GraphQL integration for VueJS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>appolo</code></summary>
+
+- [GitHub](https://github.com/vuejs/apollo) (👨‍💻 120 · 🔀 460 · 📦 60 · 📋 850 - 26% open · ⏱️ 05.10.2022):
+
+	```
+	git clone https://github.com/vuejs/apollo
 	```
 </details>
 <br>
