@@ -25,8 +25,10 @@ categories:
 labels:
   - label: "vue2"
     description: "Vue2 compatible"
+    icon: "https://img.shields.io/badge/Vue-2-green"
   - label: "vue3"
     description: "Vue3 compatible"
+    icon: "https://img.shields.io/badge/Vue-3-green"
   - label: "bootstrap5"
     description: "bootstrap 5 compatible"
   - label: "coreui"
