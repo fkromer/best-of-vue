@@ -89,14 +89,17 @@ projects:
 
   - name: router
     github_id: vuejs/router
+    npm_id: router
     labels: ["vue3"]
     category: "routing"
   - name: vue-router
     github_id: vuejs/vue-router
+    npm_id: vue-router
     labels: ["vue2"]
     category: "routing"
   - name: vue-route
     github_id: ayamflow/vue-route
+    npm_id: vue-route
     labels: ["vue2"]
     category: "routing"
 
