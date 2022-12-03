@@ -3,6 +3,8 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
+  - category: "dnd"
+    title: "Drag & Drop"
   - category: "routing"
     title: "Routing"
   - category: "state-management"
@@ -64,3 +66,24 @@ projects:
     github_id: ayamflow/vue-route
     labels: ["vue2"]
     category: "routing"
+
+  - name: mdb-ui-kit
+    github_id: mdbootstrap/mdb-ui-kit
+    labels: ["vue3"]
+    category: "dnd"
+  - name: vue.draggable.next
+    github_id: SortableJS/vue.draggable.next
+    labels: ["vue3"]
+    category: "dnd"
+  - name: vue-dragging
+    github_id: hilongjw/vue-dragging
+    labels: ["vue2"]
+    category: "dnd"
+  - name: vue-js-grid
+    github_id: euvl/vue-js-grid
+    labels: ["vue2"]
+    category: "dnd"
+  - name: vue3-draggable
+    github_id: shkilo/vue3-draggable
+    labels: ["vue3"]
+    category: "dnd"
