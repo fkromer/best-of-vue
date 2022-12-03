@@ -13,6 +13,10 @@ categories:
     title: "Drag & Drop"
   - category: "dev-tools"
     title: "Developer Tools"
+  - category: "graphql-clients"
+    title: "GraphQL clients"
+  - category: "graphql-integrations"
+    title: "GraphQL integrations"
   - category: "routing"
     title: "Routing"
   - category: "state-management"
@@ -33,6 +37,8 @@ labels:
     description: "pinia compatible"
   - label: "vite"
     description: "vite compatible"
+  - label: "apollo"
+    description: "apollo compatible"
 
 projects:
   - name: harlem
@@ -145,3 +151,13 @@ projects:
     github_id: vuejs/devtools
     labels: []
     category: "dev-tools"
+
+  - name: Appolo Client
+    github_id: apollographql/apollo-client
+    labels: ["vue2", "vue3"]
+    category: "graphql-integrations"
+
+  - name: Appolo Client integration
+    github_id: vuejs/apollo
+    labels: ["vue2", "vue3", "appolo"]
+    category: "graphql-integrations"
