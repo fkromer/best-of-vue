@@ -11,6 +11,8 @@ categories:
     title: "CSS Frameworks"
   - category: "dnd"
     title: "Drag & Drop"
+  - category: "dev-tools"
+    title: "Developer Tools"
   - category: "routing"
     title: "Routing"
   - category: "state-management"
@@ -138,3 +140,8 @@ projects:
     github_id: tailwindlabs/headlessui
     labels: ["tailwind"]
     category: "components"
+
+  - name: vue-devtools
+    github_id: vuejs/devtools
+    labels: []
+    category: "dev-tools"
