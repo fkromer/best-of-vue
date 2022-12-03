@@ -43,38 +43,47 @@ labels:
 projects:
   - name: harlem
     github_id: andrewcourtice/harlem
+    npm_id: harlem
     labels: ["vue3"]
     category: "state-management"
   - name: pinia
     github_id: vuejs/pinia
+    npm_id: pinia
     labels: ["vue3"]
     category: "state-management"
   - name: vue-freeze
     github_id: BosNaufal/vue-freeze
+    npm_id: vue-freeze
     labels: []
     category: "state-management"
   - name: vue-redux
     github_id: yang-wei/vue-redux
+    npm_id: vue-redux
     labels: []
     category: "state-management"
   - name: vue-save-state
     github_id: spatie/vue-save-state
+    npm_id: vue-save-state
     labels: []
     category: "state-management"
   - name: vue-simple-store
     github_id: BosNaufal/vue-simple-store
+    npm_id: vue-simple-store
     labels: []
     category: "state-management"
   - name: vue-stator
     github_id: galvez/vue-stator
+    npm_id: vue-stator
     labels: []
     category: "state-management"
   - name: vuex
     github_id: vuejs/vuex
+    npm_id: vuex
     labels: ["vue3"]
     category: "state-management"
   - name: xstate
     github_id: statelyai/xstate
+    npm_id: xstate
     labels: []
     category: "state-management"
 
