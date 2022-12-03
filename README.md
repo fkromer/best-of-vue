@@ -162,7 +162,7 @@ This curated list contains 32 awesome open-source projects with a total of 260K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/apollographql/apollo-client">Appolo Client</a></b> (🥇38 ·  ⭐ 18K · ➕) - A fully-featured, production ready caching GraphQL.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/apollographql/apollo-client">Appolo Client</a></b> (🥇38 ·  ⭐ 18K) - A fully-featured, production ready caching GraphQL.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/apollographql/apollo-client) (👨‍💻 780 · 🔀 2.4K · 📦 150K · 📋 4.5K - 13% open · ⏱️ 03.12.2022):
 
@@ -170,7 +170,7 @@ This curated list contains 32 awesome open-source projects with a total of 260K 
 	git clone https://github.com/apollographql/apollo-client
 	```
 </details>
-<details><summary><b><a href="https://github.com/urql-graphql/urql">URQL</a></b> (🥈31 ·  ⭐ 7.6K · ➕) - The highly customizable and versatile GraphQL client with which.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/urql-graphql/urql">URQL</a></b> (🥈31 ·  ⭐ 7.6K) - The highly customizable and versatile GraphQL client with which you.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/urql-graphql/urql) (👨‍💻 210 · 🔀 370 · 📦 22K · 📋 780 - 3% open · ⏱️ 01.12.2022):
 
@@ -178,7 +178,7 @@ This curated list contains 32 awesome open-source projects with a total of 260K 
 	git clone https://github.com/urql-graphql/urql
 	```
 </details>
-<details><summary><b><a href="https://github.com/prisma-labs/graphql-request">graphql-request</a></b> (🥉29 ·  ⭐ 5K · ➕) - Minimal GraphQL client supporting Node and browsers.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/prisma-labs/graphql-request">graphql-request</a></b> (🥉29 ·  ⭐ 5K) - Minimal GraphQL client supporting Node and browsers.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/prisma-labs/graphql-request) (👨‍💻 74 · 🔀 260 · 📦 160K · 📋 220 - 58% open · ⏱️ 18.11.2022):
 
@@ -186,7 +186,7 @@ This curated list contains 32 awesome open-source projects with a total of 260K 
 	git clone https://github.com/prisma-labs/graphql-request
 	```
 </details>
-<details><summary><b><a href="https://github.com/remorses/genql">Genql</a></b> (🥉17 ·  ⭐ 510 · ➕) - Type safe Graphql query builder. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/remorses/genql">Genql</a></b> (🥉17 ·  ⭐ 510) - Type safe Graphql query builder. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/remorses/genql) (👨‍💻 7 · 🔀 14 · 📦 160 · 📋 79 - 35% open · ⏱️ 30.11.2022):
 
@@ -196,7 +196,7 @@ This curated list contains 32 awesome open-source projects with a total of 260K 
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/nearform/graphql-hooks">graphql-hooks</a></b> (🥉23 ·  ⭐ 1.8K · ➕) - Minimal hooks-first GraphQL client. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/nearform/graphql-hooks">graphql-hooks</a></b> (🥉23 ·  ⭐ 1.8K) - Minimal hooks-first GraphQL client. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -204,7 +204,7 @@ This curated list contains 32 awesome open-source projects with a total of 260K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/vuejs/apollo">Appolo Client integration</a></b> (🥇23 ·  ⭐ 5.7K · ➕) - Apollo/GraphQL integration for VueJS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>appolo</code></summary>
+<details><summary><b><a href="https://github.com/vuejs/apollo">Appolo Client integration</a></b> (🥇23 ·  ⭐ 5.7K) - Apollo/GraphQL integration for VueJS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>appolo</code></summary>
 
 - [GitHub](https://github.com/vuejs/apollo) (👨‍💻 120 · 🔀 460 · 📦 60 · 📋 850 - 26% open · ⏱️ 05.10.2022):
 
@@ -218,25 +218,33 @@ This curated list contains 32 awesome open-source projects with a total of 260K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/vuejs/vue-router">vue-router</a></b> (🥇27 ·  ⭐ 19K) - The official router for Vue 2. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vuejs/vue-router">vue-router</a></b> (🥇34 ·  ⭐ 19K · 📈) - The official router for Vue 2. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vuejs/vue-router) (👨‍💻 280 · 🔀 5K · 📋 2.8K - 2% open · ⏱️ 03.12.2022):
 
 	```
 	git clone https://github.com/vuejs/vue-router
 	```
+- [npm](https://www.npmjs.com/package/vue-router) (📥 10M / month):
+	```
+	npm install vue-router
+	```
 </details>
-<details><summary><b><a href="https://github.com/vuejs/router">router</a></b> (🥉24 ·  ⭐ 2.6K) - The official router for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vuejs/router">router</a></b> (🥉30 ·  ⭐ 2.6K · 📈) - The official router for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vuejs/router) (👨‍💻 170 · 🔀 790 · 📋 630 - 4% open · ⏱️ 29.11.2022):
 
 	```
 	git clone https://github.com/vuejs/router
 	```
+- [npm](https://www.npmjs.com/package/router) (📥 2.2M / month):
+	```
+	npm install router
+	```
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/ayamflow/vue-route">vue-route</a></b> (🥉12 ·  ⭐ 75 · 💀) - Routing directive for Vue.js, inspired by ng-view. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ayamflow/vue-route">vue-route</a></b> (🥉15 ·  ⭐ 75 · 💀) - Routing directive for Vue.js, inspired by ng-view. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -244,49 +252,69 @@ This curated list contains 32 awesome open-source projects with a total of 260K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/vuejs/vuex">vuex</a></b> (🥇36 ·  ⭐ 28K) - Centralized State Management for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vuejs/vuex">vuex</a></b> (🥇43 ·  ⭐ 28K · 📈) - Centralized State Management for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vuejs/vuex) (👨‍💻 330 · 🔀 9.4K · 📦 1.1M · 📋 1.2K - 6% open · ⏱️ 15.10.2022):
 
 	```
 	git clone https://github.com/vuejs/vuex
 	```
+- [npm](https://www.npmjs.com/package/vuex) (📥 7.9M / month):
+	```
+	npm install vuex
+	```
 </details>
-<details><summary><b><a href="https://github.com/statelyai/xstate">xstate</a></b> (🥈34 ·  ⭐ 22K) - State machines and statecharts for the modern web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/statelyai/xstate">xstate</a></b> (🥈41 ·  ⭐ 22K · 📈) - State machines and statecharts for the modern web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/statelyai/xstate) (👨‍💻 320 · 🔀 1K · 📦 160K · 📋 1.1K - 15% open · ⏱️ 03.12.2022):
 
 	```
 	git clone https://github.com/statelyai/xstate
 	```
+- [npm](https://www.npmjs.com/package/xstate) (📥 5.4M / month):
+	```
+	npm install xstate
+	```
 </details>
-<details><summary><b><a href="https://github.com/vuejs/pinia">pinia</a></b> (🥈31 ·  ⭐ 9.4K) - Intuitive, type safe, light and flexible Store for Vue using the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vuejs/pinia">pinia</a></b> (🥈37 ·  ⭐ 9.4K · 📈) - Intuitive, type safe, light and flexible Store for Vue using the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vuejs/pinia) (👨‍💻 140 · 🔀 610 · 📦 49K · 📋 460 - 4% open · ⏱️ 03.12.2022):
 
 	```
 	git clone https://github.com/vuejs/pinia
 	```
+- [npm](https://www.npmjs.com/package/pinia) (📥 1.7M / month):
+	```
+	npm install pinia
+	```
 </details>
-<details><summary><b><a href="https://github.com/andrewcourtice/harlem">harlem</a></b> (🥈17 ·  ⭐ 440) - Powerfully simple global state management for Vue 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/andrewcourtice/harlem">harlem</a></b> (🥈18 ·  ⭐ 440) - Powerfully simple global state management for Vue 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/andrewcourtice/harlem) (👨‍💻 7 · 🔀 12 · 📦 70 · 📋 14 - 14% open · ⏱️ 13.09.2022):
 
 	```
 	git clone https://github.com/andrewcourtice/harlem
 	```
+- [npm](https://www.npmjs.com/package/harlem) (📥 150 / month):
+	```
+	npm install harlem
+	```
 </details>
-<details><summary><b><a href="https://github.com/spatie/vue-save-state">vue-save-state</a></b> (🥉14 ·  ⭐ 240 · 💤) - A Vue mixin to save the state of a component to local storage. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/spatie/vue-save-state">vue-save-state</a></b> (🥉17 ·  ⭐ 240 · 💤) - A Vue mixin to save the state of a component to local storage. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/spatie/vue-save-state) (👨‍💻 9 · 🔀 23 · 📦 140 · 📋 14 - 7% open · ⏱️ 21.03.2022):
 
 	```
 	git clone https://github.com/spatie/vue-save-state
 	```
+- [npm](https://www.npmjs.com/package/vue-save-state) (📥 2.6K / month):
+	```
+	npm install vue-save-state
+	```
 </details>
 <details><summary>Show 4 hidden projects...</summary>
 
-- <b><a href="https://github.com/galvez/vue-stator">vue-stator</a></b> (🥉11 ·  ⭐ 170 · 💀) - Vuex alternative based on Vue.observable(). <code>❗Unlicensed</code>
+- <b><a href="https://github.com/galvez/vue-stator">vue-stator</a></b> (🥉12 ·  ⭐ 170 · 💀) - Vuex alternative based on Vue.observable(). <code>❗Unlicensed</code>
 - <b><a href="https://github.com/yang-wei/vue-redux">vue-redux</a></b> (🥉8 ·  ⭐ 140 · 💀) - What happen when Vue.js + Redux. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/BosNaufal/vue-freeze">vue-freeze</a></b> (🥉6 ·  ⭐ 74 · 💀) - Simple state management whitout bloating API and Concept for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/BosNaufal/vue-simple-store">vue-simple-store</a></b> (🥉5 ·  ⭐ 67 · 💀) - Store Organizer To Simplify Your Stores. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
