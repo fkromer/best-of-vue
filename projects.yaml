@@ -3,6 +3,8 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
+  - category: "routing"
+    title: "Routing"
   - category: "state-management"
     title: "State Management"
 
@@ -49,3 +51,16 @@ projects:
     github_id: statelyai/xstate
     labels: []
     category: "state-management"
+
+  - name: router
+    github_id: vuejs/router
+    labels: ["vue3"]
+    category: "routing"
+  - name: vue-router
+    github_id: vuejs/vue-router
+    labels: ["vue2"]
+    category: "routing"
+  - name: vue-route
+    github_id: ayamflow/vue-route
+    labels: ["vue2"]
+    category: "routing"
