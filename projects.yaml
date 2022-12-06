@@ -21,6 +21,8 @@ categories:
     title: "Routing"
   - category: "state-management"
     title: "State Management"
+  - category: "ui-frameworks"
+    title: "UI Frameworks & Libraries"
 
 labels:
   - label: "vue2"
@@ -191,3 +193,52 @@ projects:
     github_id: vuejs/apollo
     labels: ["vue2", "vue3", "appolo"]
     category: "graphql-integrations"
+
+  - name: AgnosticUI
+    github_id: AgnosticUI/agnosticui
+    labels: ["vue3"]
+    category: "ui-frameworks"
+  - name: Amplify UI
+    github_id: aws-amplify/amplify-ui
+    labels: ["vue3"]
+    category: "ui-frameworks"
+  - name: Ant Design Vue
+    github_id: vueComponent/ant-design-vue
+    labels: ["vue3"]
+    category: "ui-frameworks"
+  - name: Element Plus
+    github_id: element-plus/element-plus
+    labels: ["vue3", "typescript"]
+    category: "ui-frameworks"
+  - name: Equal UI
+    github_id: quatrochan/Equal
+    labels: ["vue3", "typescript"]
+    category: "ui-frameworks"
+  - name: Headless UI
+    github_id: tailwindlabs/headlessui
+    labels: ["vue3", "typescript"]
+    category: "ui-frameworks"
+  - name: Naive UI
+    github_id: tusen-ai/naive-ui
+    labels: ["vue3", "typescript"]
+    category: "ui-frameworks"
+  - name: Oruga UI
+    github_id: oruga-ui/oruga
+    labels: ["vue3", "typescript"]
+    category: "ui-frameworks"
+  - name: PrimeVue
+    github_id: primefaces/primevue
+    labels: ["vue3", "typescript"]
+    category: "ui-frameworks"
+  - name: Quasar Framework
+    github_id: quasarframework/quasar
+    labels: ["vue3", "javascript"]
+    category: "ui-frameworks"
+  - name: SuperBVue
+    github_id: superbvue/SuperBVue
+    labels: ["vue3", "typescript"]
+    category: "ui-frameworks"
+  - name: Vuestic UI
+    github_id: epicmaxco/vuestic-ui
+    labels: ["vue3", "typescript"]
+    category: "ui-frameworks"
