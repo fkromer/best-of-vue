@@ -147,7 +147,11 @@ projects:
     category: "css-frameworks"
   - name: tailwindcss
     github_id: tailwindlabs/tailwindcss
-    labels: []
+    labels: ["css"]
+    category: "css-frameworks"
+  - name: Bulma
+    github_id: jgthms/bulma
+    labels: ["css"]
     category: "css-frameworks"
 
   - name: CoreUI Components
@@ -241,4 +245,8 @@ projects:
   - name: Vuestic UI
     github_id: epicmaxco/vuestic-ui
     labels: ["vue3", "typescript"]
+    category: "ui-frameworks"
+  - name: Semantic UI Integration
+    github_id: Semantic-UI-Vue/Semantic-UI-Vue
+    labels: ["vue3", "javascript"]
     category: "ui-frameworks"
