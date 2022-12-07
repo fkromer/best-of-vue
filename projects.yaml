@@ -188,13 +188,25 @@ projects:
     github_id: prisma-labs/graphql-request
     labels: ["vue2", "vue3"]
     category: "graphql-clients"
+  - name: Relay
+    github_id: facebook/relay
+    labels: ["vue2", "vue3"]
+    category: "graphql-clients"
   - name: URQL
     github_id: urql-graphql/urql
     labels: ["vue2", "vue3"]
     category: "graphql-clients"
-
+  - name: villus
+    github_id: logaretm/villus
+    labels: ["vue2", "vue3"]
+    category: "graphql-clients"
+    
   - name: Appolo Client integration
     github_id: vuejs/apollo
+    labels: ["vue2", "vue3", "appolo"]
+    category: "graphql-integrations"
+  - name: Relay client integration
+    github_id: vue-relay/vue-relay
     labels: ["vue2", "vue3", "appolo"]
     category: "graphql-integrations"
 
