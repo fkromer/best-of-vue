@@ -23,6 +23,10 @@ categories:
     title: "GraphQL clients"
   - category: "graphql-integrations"
     title: "GraphQL integrations"
+  - category: "http-clients"
+    title: "HTTP/Restful API clients"
+  - category: "http-integrations"
+    title: "HTTP/Restful API client integrations"
   - category: "routing"
     title: "Routing"
   - category: "state-management"
@@ -221,12 +225,26 @@ projects:
     category: "graphql-integrations"
   - name: Relay client integration
     github_id: vue-relay/vue-relay
-    labels: ["vue2", "vue3", "appolo"]
+    labels: ["vue2", "vue3", "relay"]
     category: "graphql-integrations"
   - name: Vuex ORM integration
     github_id: vuex-orm/plugin-graphql
-    labels: ["vue2", "vue3", "appolo"]
+    labels: ["vue2", "vue3", "vuex-orm"]
     category: "graphql-integrations"
+
+  - name: Axios
+    github_id: axios/axios
+    labels: ["vue2", "vue3"]
+    category: "http-clients"
+  - name: vue-resource
+    github_id: pagekit/vue-resource
+    labels: ["vue2"]
+    category: "http-clients"
+
+  - name: Vue Chimera
+    github_id: chimera-js/vue-chimera
+    labels: ["vue2", "vue3", "axios"]
+    category: "http-integrations"
 
   - name: AgnosticUI
     github_id: AgnosticUI/agnosticui
