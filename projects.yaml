@@ -85,6 +85,14 @@ projects:
     npm_id: vuex
     labels: ["vue3"]
     category: "state-management"
+  - name: vuex-orm
+    github_id: vuex-orm/vuex-orm
+    labels: ["vue3"]
+    category: "state-management"
+  - name: vuex-orm-next
+    github_id: vuex-orm/vuex-orm-next
+    labels: ["vue3"]
+    category: "state-management"
   - name: xstate
     github_id: statelyai/xstate
     npm_id: xstate
@@ -207,6 +215,10 @@ projects:
     category: "graphql-integrations"
   - name: Relay client integration
     github_id: vue-relay/vue-relay
+    labels: ["vue2", "vue3", "appolo"]
+    category: "graphql-integrations"
+  - name: Vuex ORM integration
+    github_id: vuex-orm/plugin-graphql
     labels: ["vue2", "vue3", "appolo"]
     category: "graphql-integrations"
 
