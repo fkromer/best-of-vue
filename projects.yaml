@@ -268,6 +268,7 @@ projects:
     category: "ui-frameworks"
   - name: Equal UI
     github_id: quatrochan/Equal
+    npm_id: equal-vue
     labels: ["vue3", "typescript"]
     category: "ui-frameworks"
   - name: Headless UI
@@ -297,6 +298,7 @@ projects:
     category: "ui-frameworks"
   - name: SuperBVue
     github_id: superbvue/SuperBVue
+    npm_id: superbvue
     labels: ["vue3", "typescript"]
     category: "ui-frameworks"
   - name: Vuestic UI
