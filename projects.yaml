@@ -253,7 +253,7 @@ projects:
     category: "ui-frameworks"
   - name: Amplify UI
     github_id: aws-amplify/amplify-ui
-    npm_id: @aws-amplify/ui-vue
+    npm_id: "@aws-amplify/ui-vue"
     labels: ["vue3"]
     category: "ui-frameworks"
   - name: Ant Design Vue
@@ -273,7 +273,7 @@ projects:
     category: "ui-frameworks"
   - name: Headless UI
     github_id: tailwindlabs/headlessui
-    npm_id: @headlessui/vue
+    npm_id: "@headlessui/vue"
     labels: ["vue3", "typescript"]
     category: "ui-frameworks"
   - name: Naive UI
@@ -283,7 +283,7 @@ projects:
     category: "ui-frameworks"
   - name: Oruga UI
     github_id: oruga-ui/oruga
-    npm_id: @oruga-ui/oruga
+    npm_id: "@oruga-ui/oruga"
     labels: ["vue3", "typescript"]
     category: "ui-frameworks"
   - name: PrimeVue
