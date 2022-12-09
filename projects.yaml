@@ -248,18 +248,22 @@ projects:
 
   - name: AgnosticUI
     github_id: AgnosticUI/agnosticui
+    npm_id: agnosticui
     labels: ["vue3"]
     category: "ui-frameworks"
   - name: Amplify UI
     github_id: aws-amplify/amplify-ui
+    npm_id: @aws-amplify/ui-vue
     labels: ["vue3"]
     category: "ui-frameworks"
   - name: Ant Design Vue
     github_id: vueComponent/ant-design-vue
+    npm_id: ant-design-vue
     labels: ["vue3"]
     category: "ui-frameworks"
   - name: Element Plus
     github_id: element-plus/element-plus
+    npm_id: element-plus
     labels: ["vue3", "typescript"]
     category: "ui-frameworks"
   - name: Equal UI
@@ -268,22 +272,27 @@ projects:
     category: "ui-frameworks"
   - name: Headless UI
     github_id: tailwindlabs/headlessui
+    npm_id: @headlessui/vue
     labels: ["vue3", "typescript"]
     category: "ui-frameworks"
   - name: Naive UI
     github_id: tusen-ai/naive-ui
+    npm_id: naive-ui
     labels: ["vue3", "typescript"]
     category: "ui-frameworks"
   - name: Oruga UI
     github_id: oruga-ui/oruga
+    npm_id: @oruga-ui/oruga
     labels: ["vue3", "typescript"]
     category: "ui-frameworks"
   - name: PrimeVue
     github_id: primefaces/primevue
+    npm_id: primevue
     labels: ["vue3", "typescript"]
     category: "ui-frameworks"
   - name: Quasar Framework
     github_id: quasarframework/quasar
+    npm_id: quasar
     labels: ["vue3", "javascript"]
     category: "ui-frameworks"
   - name: SuperBVue
@@ -292,9 +301,11 @@ projects:
     category: "ui-frameworks"
   - name: Vuestic UI
     github_id: epicmaxco/vuestic-ui
+    npm_id: vuestic-ui
     labels: ["vue3", "typescript"]
     category: "ui-frameworks"
   - name: Semantic UI Integration
     github_id: Semantic-UI-Vue/Semantic-UI-Vue
+    npm_id: semantic-ui-vue
     labels: ["vue3", "javascript"]
     category: "ui-frameworks"
