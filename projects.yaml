@@ -33,6 +33,8 @@ categories:
     title: "State Management"
   - category: "ui-frameworks"
     title: "UI Frameworks & Libraries"
+  - category: "desktop-apps"
+    title: "Desktop Applications"
 
 labels:
   - label: "vue2"
@@ -311,3 +313,12 @@ projects:
     npm_id: semantic-ui-vue
     labels: ["vue3", "javascript"]
     category: "ui-frameworks"
+
+  - name: Tauri
+    github_id: tauri-apps/tauri
+    npm_id: tauri
+    category: desktop-apps
+  - name: Electron
+    github_id: electron/electron
+    npm_id: electron
+    category: desktop-apps
