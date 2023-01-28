@@ -313,6 +313,11 @@ projects:
     npm_id: semantic-ui-vue
     labels: ["vue3", "javascript"]
     category: "ui-frameworks"
+  - name: Bootstrap v4 Integration
+    github_id: bootstrap-vue/bootstrap-vue
+    npm_id: bootstrap-vue
+    labels: ["vue2", "javascript"]
+    category: "ui-frameworks"
 
   - name: Tauri
     github_id: tauri-apps/tauri
