@@ -38,23 +38,24 @@ categories:
 
 labels:
   - label: "vue2"
-    description: "Vue2 compatible"
     image: "https://img.shields.io/badge/Vue-2-green.svg"
+    description: "Projects related to Vue2."
   - label: "vue3"
-    description: "Vue3 compatible"
     image: "https://img.shields.io/badge/Vue-3-green.svg"
-  - label: "bootstrap5"
-    description: "bootstrap 5 compatible"
+    description: "Projects related to Vue3."
   - label: "coreui"
-    description: "coreui compatible"
+    description: "Projects related to CoreUI."
   - label: "tailwind"
-    description: "tailwind compatible"
+    description: "Projects related to Tailwind."
   - label: "pinia"
-    description: "pinia compatible"
+    description: "Projects related to Pinia."
   - label: "vite"
-    description: "vite compatible"
+    description: "Projects related to Vite."
   - label: "apollo"
-    description: "apollo compatible"
+    description: "Projects related to Apollo."
+  - label: "bootstrap5"
+    image: "https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png"
+    description: "Projects related to Bootstrap v5 UI Framework."
 
 projects:
   - name: harlem
