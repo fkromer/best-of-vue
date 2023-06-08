@@ -60,7 +60,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/coreui/coreui-free-vue-admin-template">coreui-free-vue-admin-template</a></b> (🥇17 ·  ⭐ 3.1K · 📈) - Open source admin template based on Bootstrap 5 and.. <code>❗Unlicensed</code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/coreui/coreui-free-vue-admin-template">coreui-free-vue-admin-template</a></b> (🥇17 ·  ⭐ 3.2K) - Open source admin template based on Bootstrap 5 and.. <code>❗Unlicensed</code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/coreui/coreui-free-vue-admin-template) (👨‍💻 11 · 🔀 900 · 📋 200 - 0% open · ⏱️ 25.11.2022):
 
@@ -68,9 +68,9 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 	git clone https://github.com/coreui/coreui-free-vue-admin-template
 	```
 </details>
-<details><summary><b><a href="https://github.com/justboil/admin-one-vue-tailwind">admin-one-vue-tailwind</a></b> (🥇17 ·  ⭐ 1.4K · 📉) - Free Vue.js 3.x Tailwind 3.x admin dashboard template.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/justboil/admin-one-vue-tailwind">admin-one-vue-tailwind</a></b> (🥇17 ·  ⭐ 1.4K) - Free Vue.js 3.x Tailwind 3.x admin dashboard template.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/justboil/admin-one-vue-tailwind) (👨‍💻 3 · 🔀 260 · 📋 28 - 46% open · ⏱️ 06.04.2023):
+- [GitHub](https://github.com/justboil/admin-one-vue-tailwind) (👨‍💻 3 · 🔀 270 · 📋 29 - 48% open · ⏱️ 06.04.2023):
 
 	```
 	git clone https://github.com/justboil/admin-one-vue-tailwind
@@ -92,15 +92,15 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 
 <details><summary><b><a href="https://github.com/tailwindlabs/headlessui">Headless UI</a></b> (🥇28 ·  ⭐ 21K) - Completely unstyled, fully accessible UI components, designed to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tailwindlabs/headlessui) (👨‍💻 50 · 🔀 850 · 📦 1K · 📋 910 - 1% open · ⏱️ 01.06.2023):
+- [GitHub](https://github.com/tailwindlabs/headlessui) (👨‍💻 50 · 🔀 850 · 📦 1.1K · 📋 920 - 1% open · ⏱️ 01.06.2023):
 
 	```
 	git clone https://github.com/tailwindlabs/headlessui
 	```
 </details>
-<details><summary><b><a href="https://github.com/coreui/coreui-vue">CoreUI Components</a></b> (🥉23 ·  ⭐ 560) - Bootstrap 5 based Vue 3 components and directives... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/coreui/coreui-vue">CoreUI Components</a></b> (🥉23 ·  ⭐ 570) - Bootstrap 5 based Vue 3 components and directives... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/coreui/coreui-vue) (👨‍💻 7 · 🔀 120 · 📦 3K · 📋 200 - 2% open · ⏱️ 08.04.2023):
+- [GitHub](https://github.com/coreui/coreui-vue) (👨‍💻 7 · 🔀 120 · 📦 3K · 📋 200 - 1% open · ⏱️ 08.04.2023):
 
 	```
 	git clone https://github.com/coreui/coreui-vue
@@ -122,7 +122,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 
 <details><summary><b><a href="https://github.com/tailwindlabs/tailwindcss">tailwindcss</a></b> (🥇44 ·  ⭐ 69K) - A utility-first CSS framework for rapid UI development. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>css</code></summary>
 
-- [GitHub](https://github.com/tailwindlabs/tailwindcss) (👨‍💻 270 · 🔀 3.4K · 📥 1.1M · 📦 5M · 📋 2.9K - 0% open · ⏱️ 01.06.2023):
+- [GitHub](https://github.com/tailwindlabs/tailwindcss) (👨‍💻 270 · 🔀 3.4K · 📥 1.2M · 📦 5.1M · 📋 2.9K - 0% open · ⏱️ 08.06.2023):
 
 	```
 	git clone https://github.com/tailwindlabs/tailwindcss
@@ -130,15 +130,15 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 </details>
 <details><summary><b><a href="https://github.com/jgthms/bulma">Bulma</a></b> (🥉39 ·  ⭐ 47K) - Modern CSS framework based on Flexbox. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>css</code></summary>
 
-- [GitHub](https://github.com/jgthms/bulma) (👨‍💻 400 · 🔀 3.9K · 📥 700K · 📦 230K · 📋 2.5K - 7% open · ⏱️ 24.05.2023):
+- [GitHub](https://github.com/jgthms/bulma) (👨‍💻 400 · 🔀 3.9K · 📥 710K · 📦 230K · 📋 2.5K - 7% open · ⏱️ 03.06.2023):
 
 	```
 	git clone https://github.com/jgthms/bulma
 	```
 </details>
-<details><summary><b><a href="https://github.com/coreui/coreui">CoreUI</a></b> (🥉30 ·  ⭐ 650 · 📉) - Open Source UI Kit built on top of Bootstrap 5 and plain.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/coreui/coreui">CoreUI</a></b> (🥉30 ·  ⭐ 650) - Open Source UI Kit built on top of Bootstrap 5 and plain JavaScript.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/coreui/coreui) (👨‍💻 1.5K · 🔀 190 · 📥 3.4K · 📦 25K · 📋 130 - 1% open · ⏱️ 31.01.2023):
+- [GitHub](https://github.com/coreui/coreui) (👨‍💻 1.5K · 🔀 190 · 📥 3.4K · 📦 25K · 📋 130 - 2% open · ⏱️ 31.01.2023):
 
 	```
 	git clone https://github.com/coreui/coreui
@@ -150,7 +150,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/mdbootstrap/mdb-ui-kit">mdb-ui-kit</a></b> (🥇31 ·  ⭐ 23K · 📉) - Bootstrap 5 & Material Design UI KIT. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/mdbootstrap/mdb-ui-kit">mdb-ui-kit</a></b> (🥇31 ·  ⭐ 23K) - Bootstrap 5 & Material Design UI KIT. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/mdbootstrap/mdb-ui-kit) (👨‍💻 120 · 🔀 3.4K · 📦 8.7K · 📋 1.2K - 0% open · ⏱️ 22.05.2023):
 
@@ -212,7 +212,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 
 <details><summary><b><a href="https://github.com/apollographql/apollo-client">Appolo Client</a></b> (🥇38 ·  ⭐ 19K) - A fully-featured, production ready caching GraphQL.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/apollographql/apollo-client) (👨‍💻 820 · 🔀 2.5K · 📦 170K · 📋 4.7K - 9% open · ⏱️ 30.05.2023):
+- [GitHub](https://github.com/apollographql/apollo-client) (👨‍💻 820 · 🔀 2.5K · 📦 170K · 📋 4.7K - 9% open · ⏱️ 05.06.2023):
 
 	```
 	git clone https://github.com/apollographql/apollo-client
@@ -220,7 +220,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 </details>
 <details><summary><b><a href="https://github.com/facebook/relay">Relay</a></b> (🥈36 ·  ⭐ 18K) - Relay is a JavaScript framework for building data-driven React.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/facebook/relay) (👨‍💻 790 · 🔀 1.7K · 📦 6.5K · 📋 2.1K - 20% open · ⏱️ 01.06.2023):
+- [GitHub](https://github.com/facebook/relay) (👨‍💻 790 · 🔀 1.7K · 📦 6.5K · 📋 2.1K - 20% open · ⏱️ 08.06.2023):
 
 	```
 	git clone https://github.com/facebook/relay
@@ -228,7 +228,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 </details>
 <details><summary><b><a href="https://github.com/urql-graphql/urql">URQL</a></b> (🥈31 ·  ⭐ 8K) - The highly customizable and versatile GraphQL client with which you.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/urql-graphql/urql) (👨‍💻 230 · 🔀 410 · 📦 26K · 📋 860 - 1% open · ⏱️ 01.06.2023):
+- [GitHub](https://github.com/urql-graphql/urql) (👨‍💻 230 · 🔀 410 · 📦 26K · 📋 860 - 2% open · ⏱️ 08.06.2023):
 
 	```
 	git clone https://github.com/urql-graphql/urql
@@ -236,7 +236,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 </details>
 <details><summary><b><a href="https://github.com/jasonkuhrt/graphql-request">graphql-request</a></b> (🥈31 ·  ⭐ 5.3K) - Minimal GraphQL client supporting Node and browsers.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jasonkuhrt/graphql-request) (👨‍💻 82 · 🔀 280 · 📦 180K · 📋 270 - 39% open · ⏱️ 29.05.2023):
+- [GitHub](https://github.com/jasonkuhrt/graphql-request) (👨‍💻 82 · 🔀 290 · 📦 190K · 📋 270 - 40% open · ⏱️ 07.06.2023):
 
 	```
 	git clone https://github.com/prisma-labs/graphql-request
@@ -244,13 +244,13 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 </details>
 <details><summary><b><a href="https://github.com/nearform/graphql-hooks">graphql-hooks</a></b> (🥉23 ·  ⭐ 1.8K) - Minimal hooks-first GraphQL client. <code>❗Unlicensed</code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/nearform/graphql-hooks) (👨‍💻 83 · 🔀 87 · 📦 1K · 📋 220 - 0% open · ⏱️ 26.04.2023):
+- [GitHub](https://github.com/nearform/graphql-hooks) (👨‍💻 83 · 🔀 89 · 📦 1K · 📋 220 - 0% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/nearform/graphql-hooks
 	```
 </details>
-<details><summary><b><a href="https://github.com/logaretm/villus">villus</a></b> (🥉21 ·  ⭐ 660) - A tiny and fast GraphQL client for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/logaretm/villus">villus</a></b> (🥉21 ·  ⭐ 670) - A tiny and fast GraphQL client for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/logaretm/villus) (👨‍💻 21 · 🔀 29 · 📦 170 · 📋 130 - 9% open · ⏱️ 04.04.2023):
 
@@ -258,9 +258,9 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 	git clone https://github.com/logaretm/villus
 	```
 </details>
-<details><summary><b><a href="https://github.com/remorses/genql">Genql</a></b> (🥉18 ·  ⭐ 630 · 📉) - Type safe TypeScript client for any GraphQL API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/remorses/genql">Genql</a></b> (🥉18 ·  ⭐ 670) - Type safe TypeScript client for any GraphQL API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/remorses/genql) (👨‍💻 10 · 🔀 20 · 📦 240 · 📋 100 - 5% open · ⏱️ 28.05.2023):
+- [GitHub](https://github.com/remorses/genql) (👨‍💻 10 · 🔀 19 · 📦 240 · 📋 100 - 7% open · ⏱️ 28.05.2023):
 
 	```
 	git clone https://github.com/remorses/genql
@@ -274,7 +274,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 
 <details><summary><b><a href="https://github.com/vuejs/apollo">Appolo Client integration</a></b> (🥇24 ·  ⭐ 5.8K) - Apollo/GraphQL integration for VueJS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>appolo</code></summary>
 
-- [GitHub](https://github.com/vuejs/apollo) (👨‍💻 130 · 🔀 480 · 📦 93 · 📋 880 - 26% open · ⏱️ 16.05.2023):
+- [GitHub](https://github.com/vuejs/apollo) (👨‍💻 130 · 🔀 480 · 📦 94 · 📋 880 - 26% open · ⏱️ 16.05.2023):
 
 	```
 	git clone https://github.com/vuejs/apollo
@@ -338,9 +338,9 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/vuejs/vue-router">vue-router</a></b> (🥇33 ·  ⭐ 19K) - The official router for Vue 2. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/vuejs/vue-router">vue-router</a></b> (🥇32 ·  ⭐ 19K · 📉) - The official router for Vue 2. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-2-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/vuejs/vue-router) (👨‍💻 290 · 🔀 5.1K · 📋 2.8K - 2% open · ⏱️ 10.05.2023):
+- [GitHub](https://github.com/vuejs/vue-router) (👨‍💻 290 · 🔀 5K · 📋 2.8K - 2% open · ⏱️ 10.05.2023):
 
 	```
 	git clone https://github.com/vuejs/vue-router
@@ -350,9 +350,9 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 	npm install vue-router
 	```
 </details>
-<details><summary><b><a href="https://github.com/vuejs/router">router</a></b> (🥉31 ·  ⭐ 2.9K) - The official router for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/vuejs/router">router</a></b> (🥉31 ·  ⭐ 3K) - The official router for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/vuejs/router) (👨‍💻 190 · 🔀 950 · 📋 730 - 4% open · ⏱️ 29.05.2023):
+- [GitHub](https://github.com/vuejs/router) (👨‍💻 190 · 🔀 950 · 📋 730 - 4% open · ⏱️ 07.06.2023):
 
 	```
 	git clone https://github.com/vuejs/router
@@ -372,21 +372,21 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/vuejs/vuex">vuex</a></b> (🥇42 ·  ⭐ 28K) - Centralized State Management for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/vuejs/vuex">vuex</a></b> (🥇43 ·  ⭐ 28K · 📈) - Centralized State Management for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/vuejs/vuex) (👨‍💻 330 · 🔀 9.4K · 📦 1.2M · 📋 1.3K - 6% open · ⏱️ 09.03.2023):
 
 	```
 	git clone https://github.com/vuejs/vuex
 	```
-- [npm](https://www.npmjs.com/package/vuex) (📥 7.3M / month):
+- [npm](https://www.npmjs.com/package/vuex) (📥 7.4M / month):
 	```
 	npm install vuex
 	```
 </details>
 <details><summary><b><a href="https://github.com/statelyai/xstate">xstate</a></b> (🥇40 ·  ⭐ 24K) - State machines and statecharts for the modern web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/statelyai/xstate) (👨‍💻 330 · 🔀 1.1K · 📦 210K · 📋 1.2K - 8% open · ⏱️ 28.05.2023):
+- [GitHub](https://github.com/statelyai/xstate) (👨‍💻 330 · 🔀 1.1K · 📦 220K · 📋 1.2K - 8% open · ⏱️ 07.06.2023):
 
 	```
 	git clone https://github.com/statelyai/xstate
@@ -398,7 +398,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 </details>
 <details><summary><b><a href="https://github.com/vuejs/pinia">pinia</a></b> (🥈39 ·  ⭐ 11K) - Intuitive, type safe, light and flexible Store for Vue using the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/vuejs/pinia) (👨‍💻 170 · 🔀 800 · 📦 110K · 📋 570 - 4% open · ⏱️ 24.05.2023):
+- [GitHub](https://github.com/vuejs/pinia) (👨‍💻 180 · 🔀 800 · 📦 110K · 📋 570 - 4% open · ⏱️ 07.06.2023):
 
 	```
 	git clone https://github.com/vuejs/pinia
@@ -431,7 +431,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 	```
 	git clone https://github.com/andrewcourtice/harlem
 	```
-- [npm](https://www.npmjs.com/package/harlem) (📥 150 / month):
+- [npm](https://www.npmjs.com/package/harlem) (📥 93 / month):
 	```
 	npm install harlem
 	```
@@ -455,14 +455,14 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 	```
 	git clone https://github.com/galvez/vue-stator
 	```
-- [npm](https://www.npmjs.com/package/vue-stator) (📥 310 / month):
+- [npm](https://www.npmjs.com/package/vue-stator) (📥 320 / month):
 	```
 	npm install vue-stator
 	```
 </details>
 <details><summary>Show 3 hidden projects...</summary>
 
-- <b><a href="https://github.com/yang-wei/vue-redux">vue-redux</a></b> (🥉9 ·  ⭐ 140 · 💀) - What happen when Vue.js + Redux. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/yang-wei/vue-redux">vue-redux</a></b> (🥉8 ·  ⭐ 140 · 💀) - What happen when Vue.js + Redux. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/BosNaufal/vue-freeze">vue-freeze</a></b> (🥉6 ·  ⭐ 74 · 💀) - Simple state management whitout bloating API and Concept for Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/BosNaufal/vue-simple-store">vue-simple-store</a></b> (🥉5 ·  ⭐ 67 · 💀) - Store Organizer To Simplify Your Stores. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
@@ -474,24 +474,24 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 
 <details><summary><b><a href="https://github.com/quasarframework/quasar">Quasar Framework</a></b> (🥇43 ·  ⭐ 24K) - Quasar Framework - Build high-performance VueJS user.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>javascript</code></summary>
 
-- [GitHub](https://github.com/quasarframework/quasar) (👨‍💻 660 · 🔀 3.1K · 📦 36K · 📋 7.3K - 5% open · ⏱️ 01.06.2023):
+- [GitHub](https://github.com/quasarframework/quasar) (👨‍💻 660 · 🔀 3.1K · 📦 36K · 📋 7.3K - 5% open · ⏱️ 08.06.2023):
 
 	```
 	git clone https://github.com/quasarframework/quasar
 	```
-- [npm](https://www.npmjs.com/package/quasar) (📥 500K / month):
+- [npm](https://www.npmjs.com/package/quasar) (📥 510K / month):
 	```
 	npm install quasar
 	```
 </details>
 <details><summary><b><a href="https://github.com/element-plus/element-plus">Element Plus</a></b> (🥇43 ·  ⭐ 20K) - A Vue.js 3 UI Library made by Element team. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>typescript</code></summary>
 
-- [GitHub](https://github.com/element-plus/element-plus) (👨‍💻 490 · 🔀 9.5K · 📦 53K · 📋 5.3K - 19% open · ⏱️ 29.05.2023):
+- [GitHub](https://github.com/element-plus/element-plus) (👨‍💻 500 · 🔀 9.6K · 📦 53K · 📋 5.4K - 19% open · ⏱️ 08.06.2023):
 
 	```
 	git clone https://github.com/element-plus/element-plus
 	```
-- [npm](https://www.npmjs.com/package/element-plus) (📥 730K / month):
+- [npm](https://www.npmjs.com/package/element-plus) (📥 810K / month):
 	```
 	npm install element-plus
 	```
@@ -503,7 +503,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 	```
 	git clone https://github.com/bootstrap-vue/bootstrap-vue
 	```
-- [npm](https://www.npmjs.com/package/bootstrap-vue) (📥 1.5M / month):
+- [npm](https://www.npmjs.com/package/bootstrap-vue) (📥 1.6M / month):
 	```
 	npm install bootstrap-vue
 	```
@@ -515,26 +515,26 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 	```
 	git clone https://github.com/vueComponent/ant-design-vue
 	```
-- [npm](https://www.npmjs.com/package/ant-design-vue) (📥 400K / month):
+- [npm](https://www.npmjs.com/package/ant-design-vue) (📥 410K / month):
 	```
 	npm install ant-design-vue
 	```
 </details>
-<details><summary><b><a href="https://github.com/primefaces/primevue">PrimeVue</a></b> (🥈38 ·  ⭐ 3.8K) - Next Generation Vue UI Component Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>typescript</code></summary>
+<details><summary><b><a href="https://github.com/primefaces/primevue">PrimeVue</a></b> (🥈38 ·  ⭐ 3.9K) - Next Generation Vue UI Component Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>typescript</code></summary>
 
-- [GitHub](https://github.com/primefaces/primevue) (👨‍💻 140 · 🔀 720 · 📦 12K · 📋 3.1K - 10% open · ⏱️ 01.06.2023):
+- [GitHub](https://github.com/primefaces/primevue) (👨‍💻 140 · 🔀 720 · 📦 12K · 📋 3.1K - 10% open · ⏱️ 08.06.2023):
 
 	```
 	git clone https://github.com/primefaces/primevue
 	```
-- [npm](https://www.npmjs.com/package/primevue) (📥 390K / month):
+- [npm](https://www.npmjs.com/package/primevue) (📥 400K / month):
 	```
 	npm install primevue
 	```
 </details>
 <details><summary><b><a href="https://github.com/tusen-ai/naive-ui">Naive UI</a></b> (🥉37 ·  ⭐ 13K) - A Vue 3 Component Library. Fairly Complete. Theme Customizable... <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>typescript</code></summary>
 
-- [GitHub](https://github.com/tusen-ai/naive-ui) (👨‍💻 240 · 🔀 1.4K · 📦 14K · 📋 2.2K - 21% open · ⏱️ 30.05.2023):
+- [GitHub](https://github.com/tusen-ai/naive-ui) (👨‍💻 240 · 🔀 1.4K · 📦 15K · 📋 2.2K - 21% open · ⏱️ 08.06.2023):
 
 	```
 	git clone https://github.com/tusen-ai/naive-ui
@@ -546,7 +546,7 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 </details>
 <details><summary><b><a href="https://github.com/aws-amplify/amplify-ui">Amplify UI</a></b> (🥉35 ·  ⭐ 650) - Amplify UI is a collection of accessible, themeable,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/aws-amplify/amplify-ui) (👨‍💻 89 · 🔀 190 · 📦 40K · 📋 860 - 14% open · ⏱️ 01.06.2023):
+- [GitHub](https://github.com/aws-amplify/amplify-ui) (👨‍💻 90 · 🔀 190 · 📦 40K · 📋 860 - 14% open · ⏱️ 08.06.2023):
 
 	```
 	git clone https://github.com/aws-amplify/amplify-ui
@@ -558,19 +558,19 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 </details>
 <details><summary><b><a href="https://github.com/epicmaxco/vuestic-ui">Vuestic UI</a></b> (🥉34 ·  ⭐ 2.8K) - Free and Open Source UI Library for Vue 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>typescript</code></summary>
 
-- [GitHub](https://github.com/epicmaxco/vuestic-ui) (👨‍💻 93 · 🔀 240 · 📦 980 · 📋 1.9K - 16% open · ⏱️ 29.05.2023):
+- [GitHub](https://github.com/epicmaxco/vuestic-ui) (👨‍💻 93 · 🔀 240 · 📦 980 · 📋 2K - 16% open · ⏱️ 08.06.2023):
 
 	```
 	git clone https://github.com/epicmaxco/vuestic-ui
 	```
-- [npm](https://www.npmjs.com/package/vuestic-ui) (📥 8.5K / month):
+- [npm](https://www.npmjs.com/package/vuestic-ui) (📥 8.4K / month):
 	```
 	npm install vuestic-ui
 	```
 </details>
 <details><summary><b><a href="https://github.com/oruga-ui/oruga">Oruga UI</a></b> (🥉28 ·  ⭐ 1K) - Oruga is a lightweight library of UI components without CSS.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>typescript</code></summary>
 
-- [GitHub](https://github.com/oruga-ui/oruga) (👨‍💻 65 · 🔀 150 · 📦 110 · 📋 280 - 17% open · ⏱️ 15.05.2023):
+- [GitHub](https://github.com/oruga-ui/oruga) (👨‍💻 65 · 🔀 150 · 📦 120 · 📋 280 - 18% open · ⏱️ 15.05.2023):
 
 	```
 	git clone https://github.com/oruga-ui/oruga
@@ -580,14 +580,14 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 	npm install @oruga-ui/oruga
 	```
 </details>
-<details><summary><b><a href="https://github.com/Semantic-UI-Vue/Semantic-UI-Vue">Semantic UI Integration</a></b> (🥉25 ·  ⭐ 940 · 💤) - Semantic UI integration for Vue. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>javascript</code></summary>
+<details><summary><b><a href="https://github.com/Semantic-UI-Vue/Semantic-UI-Vue">Semantic UI Integration</a></b> (🥉26 ·  ⭐ 940 · 💤) - Semantic UI integration for Vue. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>javascript</code></summary>
 
 - [GitHub](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) (👨‍💻 71 · 🔀 150 · 📦 1.8K · 📋 250 - 42% open · ⏱️ 03.06.2020):
 
 	```
 	git clone https://github.com/Semantic-UI-Vue/Semantic-UI-Vue
 	```
-- [npm](https://www.npmjs.com/package/semantic-ui-vue) (📥 7.9K / month):
+- [npm](https://www.npmjs.com/package/semantic-ui-vue) (📥 8.3K / month):
 	```
 	npm install semantic-ui-vue
 	```
@@ -599,12 +599,12 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 	```
 	git clone https://github.com/quatrochan/Equal
 	```
-- [npm](https://www.npmjs.com/package/equal-vue) (📥 840 / month):
+- [npm](https://www.npmjs.com/package/equal-vue) (📥 880 / month):
 	```
 	npm install equal-vue
 	```
 </details>
-<details><summary><b><a href="https://github.com/AgnosticUI/agnosticui">AgnosticUI</a></b> (🥉16 ·  ⭐ 640) - AgnosticUI is a set of UI primitives that start their lives.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/AgnosticUI/agnosticui">AgnosticUI</a></b> (🥉16 ·  ⭐ 630) - AgnosticUI is a set of UI primitives that start their lives.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/AgnosticUI/agnosticui) (👨‍💻 12 · 🔀 40 · 📋 180 - 18% open · ⏱️ 23.01.2023):
 
@@ -628,12 +628,12 @@ This curated list contains 56 awesome open-source projects with a total of 620K 
 
 <details><summary><b><a href="https://github.com/tauri-apps/tauri">Tauri</a></b> (🥇39 ·  ⭐ 64K) - Build smaller, faster, and more secure desktop applications with a web.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/tauri-apps/tauri) (👨‍💻 270 · 🔀 1.7K · 📥 120K · 📦 14K · 📋 2.7K - 16% open · ⏱️ 01.06.2023):
+- [GitHub](https://github.com/tauri-apps/tauri) (👨‍💻 270 · 🔀 1.7K · 📥 140K · 📦 15K · 📋 2.7K - 16% open · ⏱️ 07.06.2023):
 
 	```
 	git clone https://github.com/tauri-apps/tauri
 	```
-- [npm](https://www.npmjs.com/package/tauri) (📥 1.6K / month):
+- [npm](https://www.npmjs.com/package/tauri) (📥 1.7K / month):
 	```
 	npm install tauri
 	```
