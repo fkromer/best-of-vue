@@ -192,6 +192,10 @@ projects:
     github_id: vuejs/devtools
     labels: []
     category: "dev-tools"
+  - name: Storybook for Nuxt framework
+    github_id: storybook-vue/nuxt
+    labels: []
+    category: "dev-tools"
 
   - name: Appolo Client
     github_id: apollographql/apollo-client
