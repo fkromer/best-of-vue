@@ -196,6 +196,10 @@ projects:
     github_id: storybook-vue/nuxt
     labels: []
     category: "dev-tools"
+  - name: Storybook Addon Nuxt
+    github_id: hirotaka/storybook-addon-nuxt
+    labels: []
+    category: "dev-tools"
 
   - name: Appolo Client
     github_id: apollographql/apollo-client
