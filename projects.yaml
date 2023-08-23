@@ -35,6 +35,8 @@ categories:
     title: "UI Frameworks & Libraries"
   - category: "desktop-apps"
     title: "Desktop Applications"
+  - category: "forms"
+    title: "Forms"
 
 labels:
   - label: "vue2"
@@ -336,3 +338,16 @@ projects:
     github_id: electron/electron
     npm_id: electron
     category: desktop-apps
+
+  - name: vorms
+    github_id: Mini-ghost/vorms
+    category: forms
+  - name: vue-formulate
+    github_id: wearebraid/vue-formulate
+    category: forms
+  - name: formkit
+    github_id: formkit/formkit
+    category: forms
+  - name: vee-validate
+    github_id: logaretm/vee-validate
+    category: forms
