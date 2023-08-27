@@ -351,3 +351,6 @@ projects:
   - name: vee-validate
     github_id: logaretm/vee-validate
     category: forms
+  - name: vuelidate
+    github_id: vuelidate/vuelidate
+    category: forms
