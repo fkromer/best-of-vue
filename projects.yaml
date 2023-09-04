@@ -189,6 +189,10 @@ projects:
     github_id: tailwindlabs/headlessui
     labels: ["tailwind"]
     category: "components"
+  - name: flowbite-vue
+    github_id: themesberg/flowbite-vue
+    labels: ["tailwind"]
+    category: "components"
 
   - name: vue-devtools
     github_id: vuejs/devtools
