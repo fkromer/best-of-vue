@@ -15,6 +15,7 @@
     <a href="https://github.com/fkromer/best-of-vue/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-vue?color=green&label=updated"></a>
 </p>
 
+
 This curated list contains 64 awesome open-source projects with a total of 700K stars grouped into 14 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-vue/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-vue/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-vue/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
@@ -137,6 +138,7 @@ This curated list contains 64 awesome open-source projects with a total of 700K 
 	git clone https://github.com/tailwindlabs/tailwindcss
 	```
 </details>
+
 <details><summary><b><a href="https://github.com/jgthms/bulma">Bulma</a></b> (🥉41 ·  ⭐ 49K · 📈) - Modern CSS framework based on Flexbox. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>css</code></summary>
 
 - [GitHub](https://github.com/jgthms/bulma) (👨‍💻 410 · 🔀 3.9K · 📥 790K · 📦 250K · 📋 2.6K - 9% open · ⏱️ 30.04.2024):
@@ -596,7 +598,7 @@ This curated list contains 64 awesome open-source projects with a total of 700K 
 	```
 	git clone https://github.com/oruga-ui/oruga
 	```
-- [npm](https://www.npmjs.com/package/@oruga-ui/oruga) (📥 6.4K / month):
+- [npm](https://www.npmjs.com/package/@oruga-ui/oruga) (📥 6.6K / month):
 	```
 	npm install @oruga-ui/oruga
 	```
@@ -613,9 +615,21 @@ This curated list contains 64 awesome open-source projects with a total of 700K 
 	npm install semantic-ui-vue
 	```
 </details>
+<details><summary><b><a href="https://github.com/Equal-UI/Equal">Equal UI</a></b> (🥉16 ·  ⭐ 1.2K) - Equal UI is a Vue 3 UI library empowered by Tailwindcss. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code> <code>typescript</code></summary>
+
+- [GitHub](https://github.com/Equal-UI/Equal) (👨‍💻 12 · 🔀 66 · 📦 3 · 📋 70 - 2% open · ⏱️ 15.08.2023):
+
+	```
+	git clone https://github.com/quatrochan/Equal
+	```
+- [npm](https://www.npmjs.com/package/equal-vue) (📥 280 / month):
+	```
+	npm install equal-vue
+	```
+</details>
 <details><summary><b><a href="https://github.com/AgnosticUI/agnosticui">AgnosticUI</a></b> (🥉15 ·  ⭐ 700 · 💤) - AgnosticUI is a set of UI primitives that start their.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://img.shields.io/badge/Vue-3-green.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/AgnosticUI/agnosticui) (👨‍💻 12 · 🔀 46 · 📋 190 - 20% open · ⏱️ 23.01.2023):
+- [GitHub](https://github.com/AgnosticUI/agnosticui) (👨‍💻 12 · 🔀 45 · 📋 190 - 20% open · ⏱️ 23.01.2023):
 
 	```
 	git clone https://github.com/AgnosticUI/agnosticui
